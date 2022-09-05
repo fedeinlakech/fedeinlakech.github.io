@@ -1,1 +1,19 @@
 /* Hoja de estilo vacia por ahora */
+body {
+    font-family: 'Noto Sans', sans-serif;
+  
+}
+
+h1 {
+    color: rgb(6, 6, 126);
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.card-title {
+    color: green;
+}
+
+.card {
+    margin-bottom: 50px!important;
+}
